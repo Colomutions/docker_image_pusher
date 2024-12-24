@@ -3,3 +3,4 @@ rabbitmq:3.12.14-management
 redis:7.0.15
 nacos/nacos-server:v2.1.1
 minio/minio
+mongo:7.0.16
