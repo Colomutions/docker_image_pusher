@@ -1,1 +1,1 @@
-minio/mc:latest
+xuxueli/xxl-job-admin:2.5.0
