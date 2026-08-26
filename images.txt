@@ -1,1 +1,2 @@
-emby/embyserver:4.10.0.27
+library/dart:3.3-sdk
+library/debian:bookworm-slim
