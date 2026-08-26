@@ -1,1 +1,1 @@
-embyserver:latest
+emby/embyserver:4.10.0.27
