@@ -1,6 +1,1 @@
-linuxserver/prowlarr:latest
-flaresolverr/flaresolverr:latest
-linuxserver/radarr:latest
-linuxserver/sonarr:latest
-fallenbagel/jellyseerr:latest
-linuxserver/jellyfin:latest
+embyserver:latest
